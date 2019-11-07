@@ -1,0 +1,7 @@
+jenkins:
+  systemMessage: "Sweet, Jenkins configured itself!"
+tool:
+  git:
+    installations:
+      - name: git
+        home: /usr/local/bin/git
